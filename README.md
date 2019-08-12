@@ -14,7 +14,7 @@
 
 ### Prerequisites
 
-This is an example project made in Java.
+This is an school desktop project made in Java.
 
 * Java
 
